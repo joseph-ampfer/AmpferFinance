@@ -114,3 +114,4 @@ This project represents not just a culmination of the technical skills acquired 
 ## Interaction Between Front-end and Back-end:
 
 _AMPFER Finance_'s front-end and back-end interact to provide a stock trading simulation. The front end sends requests to the Flask back-end for operations like user authentication, stock buying/selling, and retrieving financial data. The back-end processes these requests, interfacing with the database and external APIs as needed, and returns the necessary data to the front-end for display. This interaction is crucial for real-time updates and maintaining the app's overall functionality and security.
+
