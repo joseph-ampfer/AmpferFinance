@@ -91,7 +91,7 @@ This project represents not just a culmination of the technical skills acquired 
 
 - `app.py` is the core of the Flask-based back-end for _AMPFER Finance_. It handles user interactions including account management, stock transactions, and data retrieval, interfacing with the front-end React Native app for secure and efficient processing. 
 
-- `finance.db` is the relational database I created for the app using sqlite. Contains two tables "users" and "transactions".
+- `finance.db` is the relational database I created for the app using SQLite. Contains two tables "users" and "transactions".
     - users 
         - id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, 
         - username TEXT NOT NULL, 
